@@ -1,4 +1,5 @@
-#Ejercicio práctico Móvil 
+
+# Ejercicio práctico Móvil 
 
 ##### RESUMEN Y OBJETIVO
 Conocer los conocimientos técnicos del aspirante en el desarrollo de aplicaciones móviles.
